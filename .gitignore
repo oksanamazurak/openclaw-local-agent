@@ -15,8 +15,8 @@ ENV/
 # Vector DB / Local Storage
 chroma/
 chroma_db/
+data/
 *.db
-*.sqlite3
 
 # Logs
 *.log
@@ -31,3 +31,4 @@ Thumbs.db
 
 # Environment variables
 .env
+

@@ -4,7 +4,11 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
-
+streamlit = "*"
+langgraph = "*"
+chromadb = "*"
+langchain-ollama = "*"
+ddgs = "*"
 [dev-packages]
 
 [requires]
